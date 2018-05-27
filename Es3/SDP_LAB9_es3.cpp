@@ -321,3 +321,4 @@ LPWSTR getErrorMessageAsString(DWORD errorCode) {
 
 	return errString;
 }
+
